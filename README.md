@@ -21,6 +21,7 @@ Criteria are never hard-coded. They are loaded from the admin configuration and 
 
 [WRITEUP.md]: Answers to the five questions (AI vs. rules, consistency, human in the loop, changing criteria, risks) 
 [diagram/flowchart.png]: Process flow from upload to ranked output, showing AI steps, rule-based steps and human checkpoints 
+
 [PROMPTS.md]: The extraction prompt and the Team and approach rating prompt, as they would be sent |
 [ranking.json]: Expected result for proposals A to E
 
